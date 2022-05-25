@@ -1,0 +1,31 @@
+[Sat Apr 30 08:41:32 2022] PHP 8.1.2 Development Server (http://localhost:2897) started
+[Sat Apr 30 08:42:03 2022] [::1]:34138 Accepted
+[Sat Apr 30 08:42:03 2022] [::1]:34138 [200]: GET /
+[Sat Apr 30 08:42:03 2022] [::1]:34138 Closing
+[Sat Apr 30 08:42:03 2022] [::1]:34140 Accepted
+[Sat Apr 30 08:42:03 2022] [::1]:34142 Accepted
+[Sat Apr 30 08:42:03 2022] [::1]:34144 Accepted
+[Sat Apr 30 08:42:03 2022] [::1]:34142 [200]: GET /location.js
+[Sat Apr 30 08:42:03 2022] [::1]:34140 [200]: GET /loc.js
+[Sat Apr 30 08:42:03 2022] [::1]:34142 Closing
+[Sat Apr 30 08:42:03 2022] [::1]:34144 [200]: GET /client.min.js
+[Sat Apr 30 08:42:03 2022] [::1]:34140 Closing
+[Sat Apr 30 08:42:03 2022] [::1]:34144 Closing
+[Sat Apr 30 08:42:07 2022] [::1]:34146 Accepted
+[Sat Apr 30 08:42:07 2022] [::1]:34146 [200]: POST /info.php
+[Sat Apr 30 08:42:07 2022] [::1]:34146 Closing
+[Sat Apr 30 08:51:11 2022] [::1]:34148 Accepted
+[Sat Apr 30 08:51:11 2022] [::1]:34148 [200]: GET /
+[Sat Apr 30 08:51:11 2022] [::1]:34148 Closing
+[Sat Apr 30 08:51:11 2022] [::1]:34152 Accepted
+[Sat Apr 30 08:51:11 2022] [::1]:34154 Accepted
+[Sat Apr 30 08:51:11 2022] [::1]:34152 [200]: GET /location.js
+[Sat Apr 30 08:51:11 2022] [::1]:34154 [200]: GET /client.min.js
+[Sat Apr 30 08:51:11 2022] [::1]:34152 Closing
+[Sat Apr 30 08:51:11 2022] [::1]:34154 Closing
+[Sat Apr 30 08:51:11 2022] [::1]:34156 Accepted
+[Sat Apr 30 08:51:11 2022] [::1]:34156 [200]: GET /loc.js
+[Sat Apr 30 08:51:11 2022] [::1]:34156 Closing
+[Sat Apr 30 08:51:13 2022] [::1]:34158 Accepted
+[Sat Apr 30 08:51:13 2022] [::1]:34158 [200]: POST /info.php
+[Sat Apr 30 08:51:13 2022] [::1]:34158 Closing

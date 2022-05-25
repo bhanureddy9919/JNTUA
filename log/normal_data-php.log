@@ -1,0 +1,14 @@
+[Fri Apr 29 14:39:07 2022] PHP 8.1.2 Development Server (http://localhost:2525) started
+[Fri Apr 29 14:40:25 2022] [::1]:37350 Accepted
+[Fri Apr 29 14:40:25 2022] [::1]:37350 [200]: GET /
+[Fri Apr 29 14:40:25 2022] [::1]:37350 Closing
+[Fri Apr 29 14:40:26 2022] [::1]:37352 Accepted
+[Fri Apr 29 14:40:26 2022] [::1]:37354 Accepted
+[Fri Apr 29 14:40:26 2022] [::1]:37354 [200]: GET /loc.js
+[Fri Apr 29 14:40:26 2022] [::1]:37352 [200]: GET /client.min.js
+[Fri Apr 29 14:40:26 2022] [::1]:37354 Closing
+[Fri Apr 29 14:40:26 2022] [::1]:37352 Closing
+[Fri Apr 29 14:40:29 2022] [::1]:37356 Accepted
+[Fri Apr 29 14:40:29 2022] PHP Warning:  Undefined array key "cpuname" in /home/kali/Storm-Breaker/template/normal_data/info.php on line 8
+[Fri Apr 29 14:40:29 2022] [::1]:37356 [200]: POST /info.php
+[Fri Apr 29 14:40:29 2022] [::1]:37356 Closing
